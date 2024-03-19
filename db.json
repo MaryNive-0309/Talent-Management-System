@@ -1,0 +1,101 @@
+{
+  "users": [
+    {
+      "id": "f2bf",
+      "username": "admin",
+      "email": "admin@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "e7fc",
+      "username": "adam",
+      "email": "adam@gmail.com",
+      "password": "123"
+    }
+  ],
+  "user": [
+    {
+      "id": "1",
+      "name": "Adam",
+      "email": "adam@gmail.com",
+      "role": "Sales manager",
+      "skill": "React js"
+    },
+    {
+      "id": "2",
+      "name": "John",
+      "email": "john@gmail.com",
+      "role": "Manager",
+      "skill": "Data structure"
+    },
+    {
+      "id": 0,
+      "name": "",
+      "email": "",
+      "role": "",
+      "skill": ""
+    }
+  ],
+  "jobpost": [
+    {
+      "id": "1",
+      "title": "Software engineer",
+      "des": "We are looking for a skilled software engineer to join our team",
+      "loc": "San Francisco, CA",
+      "date": "2024-03-08"
+    },
+    {
+      "id": "2",
+      "title": "Marketing Manager",
+      "des": "Seeking an experienced Marketing Manager to develop and execute marketing strategies...",
+      "loc": "New York, NY",
+      "date": "2024-03-08"
+    }
+  ],
+  "course": [
+    {
+      "id": "fd22",
+      "course": "Introduction to React",
+      "instructor": "John Dae",
+      "duration": "2 hours",
+      "level": "Beginner"
+    },
+    {
+      "id": "aefe",
+      "course": "Introduction to C++",
+      "instructor": "Albert Dev",
+      "duration": "2.5 hours",
+      "level": "Beginner"
+    }
+  ],
+  "employees": [
+    {
+      "id": "5a57",
+      "employees": "Albert",
+      "dept": "Marketing",
+      "pos": "sales marketer",
+      "potential": "high"
+    },
+    {
+      "id": "c95e",
+      "employees": "Riya",
+      "dept": "Finance",
+      "pos": "Employee",
+      "potential": "Medium"
+    }
+  ],
+  "perf": [
+    {
+      "name": "Adam",
+      "dept": "Marketing",
+      "pos": "sales marketer",
+      "id": "c20a"
+    },
+    {
+      "id": 0,
+      "name": "John",
+      "dept": "Finance",
+      "pos": "Manager"
+    }
+  ]
+}
